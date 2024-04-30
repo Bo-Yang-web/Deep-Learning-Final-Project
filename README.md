@@ -3,6 +3,8 @@
 
 ## About
 Yang as a member
+
+
 Mamba is a new state space model architecture, we try to use it in prompt generation.
 Our work is:
 1. generate completions of a user-specified prompt,
